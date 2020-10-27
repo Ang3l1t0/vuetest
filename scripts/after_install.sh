@@ -16,7 +16,7 @@
 # Go to the directory and run npm install
 # cd /home/ubuntu/code/
 # npm install
-git clone https://github.com/Ang3l1t0/vuetest.git
-cd /home/ubuntu/VueCICDTest
-npm install
+#git clone https://github.com/Ang3l1t0/vuetest.git
+cd /home/ubuntu/code/
+# npm install
 npm run build

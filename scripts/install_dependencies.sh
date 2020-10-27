@@ -12,5 +12,5 @@
 # 
 # # Node install
 # apt install nodejs
-# npm install npm -g
+# npm install -g @vue/cli
 # nodejs -v

@@ -11,7 +11,8 @@ apt install apache2 -y
 ufw allow 'Apache'
 # 
 # Node install
-apt install nodejs -y
-apt install npm -y
+apt install nodejs npm
+echo nodejs and npm Installed
 npm install -g @vue/cli
+npm install
 #nodejs -v
